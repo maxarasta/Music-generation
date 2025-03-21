@@ -27,8 +27,8 @@ Bien que notre modèle ait montré des capacités prometteuses, les contraintes 
 ### Installation et utilisation
 - Clonez ce repository :
    ```bash
-   git clone https://github.com/votre-repo/MIMIC.git
-   cd MIMIC
+   git clone https://github.com/votre-repo/Music-generation.git
+   cd Music-generation
    ```
 
 ### Auteurs
