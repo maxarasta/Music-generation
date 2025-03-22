@@ -10,8 +10,8 @@ Le projet MIMIC repose sur des modèles de deep learning, en particulier des arc
 
 ### Approche
 Nous avons adopté une approche progressive en deux étapes :
-* ✅ **Génération mélodique** : Entraînement d'un modèle à produire des mélodies jazz cohérentes.
-* ❌ **Fine-tuning** : Spécialisation du modèle pour capturer les nuances stylistiques.
+* [x] ✅ **Génération mélodique** : Entraînement d'un modèle à produire des mélodies jazz cohérentes.
+* [ ] ❌ **Fine-tuning** : Spécialisation du modèle pour capturer les nuances stylistiques.
 
 Nous avons exploré plusieurs techniques d'encodage musical, et optimisé notre pipeline d'apprentissage en utilisant des blocs d'attention.
 
