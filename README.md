@@ -3,7 +3,7 @@
 ### Music Generation with Deep Learning
 
 ### Installation et utilisation
-> Clonez ce repository :
+Clonez ce repository
    ```bash
    git clone https://github.com/maxarasta/Music-generation.git
    cd Music-generation
