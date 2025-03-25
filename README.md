@@ -30,9 +30,9 @@ Bien que notre modèle ait montré des capacités prometteuses, les contraintes 
    git clone https://github.com/votre-repo/Music-generation.git
    cd Music-generation
    ```
-### 📄 [📖 Rapport](https://github.com/maxarasta/Music-generation/blob/main/PDF/rapport-music-generation-with-ai-beaudoin-margouty.pdf)
+### 📄 [Rapport](https://github.com/maxarasta/Music-generation/blob/main/PDF/rapport-music-generation-with-ai-beaudoin-margouty.pdf)
 
-### 📄 [📖 Présentation](https://github.com/maxarasta/Music-generation/blob/main/PDF/presentation-music-generation-with-ai-beaudoin-margouty.pdf)
+### 📄 [Présentation](https://github.com/maxarasta/Music-generation/blob/main/PDF/presentation-music-generation-with-ai-beaudoin-margouty.pdf)
 
 ### Auteurs
 - [@Ttheau748K](https://github.com/Ttheau748K)
