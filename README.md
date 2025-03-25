@@ -1,6 +1,6 @@
 # MIMIC: Music Intelligence and Machine Inspired Composition
 
-### Music Generation with Machine Learning
+### Music Generation with Deep Learning
 
 ### Abstract
 MIMIC est un projet de recherche visant à explorer la génération musicale par intelligence artificielle, avec un accent particulier sur le jazz manouche et le compositeur Stéphane Grappelli. L'objectif est d'entraîner un modèle capable de produire des compositions originales fidèles à ce style. Ce projet s'inscrit dans une initiative plus large visant à faire perdurer la musique d'artistes défunts avec des performances artistiques originales.
