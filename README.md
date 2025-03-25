@@ -33,9 +33,9 @@ Bien que notre modèle ait montré des capacités prometteuses, les contraintes 
 - [ ] **Augmentation des données d'entraîment** : Intégrer un jeu de données plus large et mieux annoté.
 - [ ] **Application à la génération vocale** : Intégrer un module IA pour la superposition de voix chantées.
 
+### Conclusion
+MIMIC constitue une première étape vers la génération de musique jazz de haute qualité par IA. Si nos résultats actuels montrent une marge de progression, notre approche a démontré son potentiel et ouvre la voie à des applications futures dans la création musicale automatisée et la résurgence d'artistes emblématiques via la technologie.
+
 ### Auteurs
 - [@Ttheau748K](https://github.com/Ttheau748K)
 - [@maxarasta](https://github.com/maxarasta)
-
-### Conclusion
-MIMIC constitue une première étape vers la génération de musique jazz de haute qualité par IA. Si nos résultats actuels montrent une marge de progression, notre approche a démontré son potentiel et ouvre la voie à des applications futures dans la création musicale automatisée et la résurgence d'artistes emblématiques via la technologie.
