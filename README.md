@@ -4,11 +4,12 @@
 
 ### Installation et utilisation
 > Clonez ce repository :
->    ```bash
->    git clone https://github.com/maxarasta/Music-generation.git
->    cd Music-generation
->    ```
-### 📄 [Rapport](https://github.com/maxarasta/Music-generation/blob/main/PDF/rapport-music-generation-with-ai-beaudoin-margouty.pdf) 📄 [Présentation](https://github.com/maxarasta/Music-generation/blob/main/PDF/presentation-music-generation-with-ai-beaudoin-margouty.pdf)
+   ```bash
+   git clone https://github.com/maxarasta/Music-generation.git
+   cd Music-generation
+   ```
+### 📖 [Rapport](https://github.com/maxarasta/Music-generation/blob/main/PDF/rapport-music-generation-with-ai-beaudoin-margouty.pdf)
+### 📄 [Présentation](https://github.com/maxarasta/Music-generation/blob/main/PDF/presentation-music-generation-with-ai-beaudoin-margouty.pdf)
 
 ### Abstract
 MIMIC est un projet de recherche visant à explorer la génération musicale par intelligence artificielle, avec un accent particulier sur le jazz manouche et le compositeur Stéphane Grappelli. L'objectif est d'entraîner un modèle capable de produire des compositions originales fidèles à ce style. Ce projet s'inscrit dans une initiative plus large visant à faire perdurer la musique d'artistes défunts avec des performances artistiques originales.
