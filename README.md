@@ -19,10 +19,10 @@ Nous avons exploré plusieurs techniques d'encodage musical, et optimisé notre 
 Bien que notre modèle ait montré des capacités prometteuses, les contraintes matérielles (GPU 8GB de VRAM) ont limité nos performances. La génération musicale manque encore de cohérence sur de longues séquences et la fidélité au style visé reste perfectible. Une augmentation des ressources de calcul ou l'exploration d'architectures moins gourmandes en ressources serait nécessaire pour améliorer les résultats.
 
 ### Perspectives
-- **Optimisation du modèle** : Expérimenter des architectures plus légères et efficaces.
-- **Amélioration de la tokenisation** : Affiner l'encodage MIDI pour une meilleure capture des structures harmoniques.
-- **Augmentation des données d'entraîment** : Intégrer un jeu de données plus large et mieux annoté.
-- **Application à la génération vocale** : Intégrer un module IA pour la superposition de voix chantées.
+- [ ] **Optimisation du modèle** : Expérimenter des architectures plus légères et efficaces.
+- [ ] **Amélioration de la tokenisation** : Affiner l'encodage MIDI pour une meilleure capture des structures harmoniques.
+- [ ] **Augmentation des données d'entraîment** : Intégrer un jeu de données plus large et mieux annoté.
+- [ ] **Application à la génération vocale** : Intégrer un module IA pour la superposition de voix chantées.
 
 ### Installation et utilisation
 - Clonez ce repository :
